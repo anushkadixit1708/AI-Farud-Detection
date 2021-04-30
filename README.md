@@ -1,1 +1,1 @@
-# AI-Farud-Detection
+# AI-Fraud-Detection
