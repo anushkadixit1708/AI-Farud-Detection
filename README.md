@@ -28,6 +28,8 @@ The dataset, as mentioned above, consists of a large volume of data and the meth
 - The predictions from each tree must have very low correlations.<br>
 
 <b>Note: For more information regarding the project, refer to the Project Report</b>
-    
 
+# Web-App <br>
+https://ai-project-ccf.herokuapp.com/
+    
 
